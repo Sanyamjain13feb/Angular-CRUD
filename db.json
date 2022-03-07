@@ -1,0 +1,13 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "name": "san",
+      "email": "san@gmail.com"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
